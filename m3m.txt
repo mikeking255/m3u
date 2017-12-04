@@ -1,0 +1,1139 @@
+#EXTM3U
+#EXTINF:-1,STAR MOVIES
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/836.ts
+#EXTINF:-1,OSN MOVIES
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7513.ts
+#EXTINF:-1,OSN MOVIES 2 HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7532.ts
+#EXTINF:-1,OSN MOVIES ACTION 2 HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7531.ts
+#EXTINF:-1,OSN MOVIES ACTION HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7530.ts
+#EXTINF:-1,OSN Movies Box Office 1HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7512.ts
+#EXTINF:-1,OSN Movies Box Office 3HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7511.ts
+#EXTINF:-1,OSN Movies Box Office-2HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7510.ts
+#EXTINF:-1,OSN Movies Comedy HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7509.ts
+#EXTINF:-1,OSN MOVIES FAMILY HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7529.ts
+#EXTINF:-1,OSN Movies First HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7507.ts
+#EXTINF:-1,OSN Movies First HD 2
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7506.ts
+#EXTINF:-1,OSN MOVIES HBO
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7528.ts
+#EXTINF:-1,OSN Movies HD Action
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7505.ts
+#EXTINF:-1,OSN Movies HD Family
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7504.ts
+#EXTINF:-1,OSN Movies Kids HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7503.ts
+#EXTINF:-1,OSN Movies Premiere HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7502.ts
+#EXTINF:-1,OSN MOVIES THIRELLER HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7526.ts
+#EXTINF:-1,OSN MOVIES THRILLER
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7501.ts
+#EXTINF:-1,OSN SPORT 1 HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7496.ts
+#EXTINF:-1,OSN SPORT 2 HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7497.ts
+#EXTINF:-1,OSN SPORT 3 HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7498.ts
+#EXTINF:-1,OSN SPORT 4 HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7499.ts
+#EXTINF:-1,OSN SPORT CRICKET HD
+http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7500.ts
+#EXTINF:-1,Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1,NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1,TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,~ Lebanon TV ~
+http://www.lengua.com/anthems/Lebanon.mp3
+#EXTINF:-1,LBCi
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1,Arabica TV
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+#EXTINF:-1,Hawacom TV
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+#EXTINF:-1,Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+#EXTINF:-1,Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1,~ Syria TV ~
+http://www.lengua.com/anthems/Syria.mp3
+#EXTINF:-1,ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1,Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1,Syria TV
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1,Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+#EXTINF:-1,~ Jordan TV  ~
+http://www.lengua.com/anthems/Jordan.mp3
+#EXTINF:-1,Al Taghier
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:-1,Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+#EXTINF:-1,Semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+#EXTINF:-1,~ Palestine TV ~
+http://users.atw.hu/szbszig/palestine.mp3
+#EXTINF:-1,Al Aqsa
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1,~ Iraq TV ~
+http://www.lengua.com/anthems/Iraq.mp3
+#EXTINF:-1,Al Forat
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+#EXTINF:-1,Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1,Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,~ KSA TV ~
+http://www.lengua.com/anthems/SaudiArabia.mp3
+#EXTINF:-1,Masdar TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+#EXTINF:-1,Rotana Cinema
+http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
+#EXTINF:-1,Rotana Classic
+http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
+#EXTINF:-1,Rotana Clip
+http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
+#EXTINF:-1,Wanasah
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+#EXTINF:-1,~ UAE TV ~
+http://www.lengua.com/anthems/UnitedArabEmirates.mp3
+#EXTINF:-1,Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:-1,Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1,Al Dafrah TV
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+#EXTINF:-1,CNBC Arabiya
+http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
+#EXTINF:-1,Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
+#EXTINF:-1,Dubai TV*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1,Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
+#EXTINF:-1,Dubai One*
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
+#EXTINF:-1,Dubai One**
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1,Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai Zaman*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1,Dubai Sports
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+#EXTINF:-1,Dubai Sports*
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
+#EXTINF:-1,Sama Dubai*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1,YAS Sports
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+#EXTINF:-1,Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
+#EXTINF:-1,Dubai Racing 2
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
+#EXTINF:-1,Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1,Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1,National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+#EXTINF:-1,Zee Aflam (Hindi)
+http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
+#EXTINF:-1,Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,Abu Dhabi Sports SD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1,Abu Dhabi Sports SD*
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,Abu Dhabi Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Abu Dhabi Sports 2 SD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 SD*
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1,Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1,~ Qatar TV ~
+http://www.lengua.com/anthems/Qatar.mp3
+#EXTINF:-1,Al Jazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1,Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:-1,Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,~ Kuwait TV ~
+http://www.lengua.com/anthems/Kuwait.mp3
+#EXTINF:-1,Al Rai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1,KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1,KTV 1*
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1,KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1,KTV 2*
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1,KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1,KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1,~ Oman TV ~
+http://www.lengua.com/anthems/Oman.mp3
+#EXTINF:-1,Oman TV
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+#EXTINF:-1,Oman TV*
+http://37.152.128.66:7009/play/a00j
+#EXTINF:-1,Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:-1,Oman Documentary
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:-1,Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1,~ Yemen TV ~
+http://www.lengua.com/anthems/Yemen.mp3
+#EXTINF:-1,Yemen TV [Off]
+http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
+#EXTINF:-1,Al Masirah
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+#EXTINF:-1,~ Egypt TV ~
+http://www.lengua.com/anthems/Egypt.mp3
+#EXTINF:-1,CBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+#EXTINF:-1,Al Kahera Wal Nas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
+#EXTINF:-1,El Sharq [Off]
+http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
+#EXTINF:-1,Mekameleen
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
+#EXTINF:-1,Nile Cinema
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+#EXTINF:-1,~ Tunisia TV ~
+http://www.lengua.com/anthems/Tunisia.mp3
+#EXTINF:-1,Nessma [Geo]
+http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:-1,Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1,~ Libya TV ~
+http://www.lengua.com/anthems/Libya.mp3
+#EXTINF:-1,Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+#EXTINF:-1,Libya 218
+http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
+#EXTINF:-1,Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1,~ Algeria TV ~
+http://www.lengua.com/anthems/Algeria.mp3
+#EXTINF:-1,Dzair TV [Geo]
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:-1,Ennahar TV
+http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
+#EXTINF:-1,~ Morocco TV ~
+http://www.lengua.com/anthems/Morocco.mp3
+#EXTINF:-1,Al Aoula
+http://95.81.155.40/5958/index.m3u8
+#EXTINF:-1,Al Aoula Int'l
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,Al Aoula Laayoune
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1,Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,Arrabiaa
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1,Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,~ Ethiopia TV ~
+http://www.lengua.com/anthems/Ethiopia.mp3
+#EXTINF:-1,Kana TV
+http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21173.ts
+#EXTINF:-1,|AR| BEIN SPORTS 2
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21164.ts
+#EXTINF:-1,|AR| BEIN SPORTS 3
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21163.ts
+#EXTINF:-1,|AR| BEIN SPORTS 4
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21162.ts
+#EXTINF:-1,|AR| BEIN SPORTS 5
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21161.ts
+#EXTINF:-1,|AR| BEIN SPORTS 6
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21160.ts
+#EXTINF:-1,|AR| BEIN SPORTS 7
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21159.ts
+#EXTINF:-1,|AR| BEIN SPORTS 8
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21158.ts
+#EXTINF:-1,|AR| BEIN SPORTS 9
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21157.ts
+#EXTINF:-1,|AR| BEIN SPORTS 10
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21172.ts
+#EXTINF:-1,|AR| BEIN SPORTS 11
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21171.ts
+#EXTINF:-1,|AR| BEIN SPORTS 12
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21170.ts
+#EXTINF:-1,|AR| BEIN SPORTS 13
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21169.ts
+#EXTINF:-1,|AR| BEIN SPORTS 14
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21168.ts
+#EXTINF:-1,|AR| BEIN SPORTS 15
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21167.ts
+#EXTINF:-1,|AR| BEIN SPORTS 16
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21166.ts
+#EXTINF:-1,|AR| BEIN SPORTS 17
+http://mibvip.ddns.me:80/live/vP8uoWYOzL/CVbAiMUvMc/21165.ts
+#EXTINF:-1,OSN: VIP OSN IDX HD
+http://server.internext.tv:8000/live/star18/star18/10683.ts
+#EXTINF:-1,OSN: VIP CINEMAX HD
+http://server.internext.tv:8000/live/star18/star18/10619.ts
+#EXTINF:-1,OSN: UNIVERSAL HD
+http://server.internext.tv:8000/live/star18/star18/10607.ts
+#EXTINF:-1,OSN: TNT HD
+http://server.internext.tv:8000/live/star18/star18/10606.ts
+#EXTINF:-1,OSN: STARZ HD
+http://server.internext.tv:8000/live/star18/star18/10603.ts
+#EXTINF:-1,OSN: Starz Cinema HD
+http://server.internext.tv:8000/live/star18/star18/10617.ts
+#EXTINF:-1,OSN: SKY MOVIES PREMIER HD
+http://server.internext.tv:8000/live/star18/star18/10626.ts
+#EXTINF:-1,OSN: SKY MOVIES DISNEY HD
+http://server.internext.tv:8000/live/star18/star18/10623.ts
+#EXTINF:-1,OSN: SKY MOVIES COMEDY HD
+http://server.internext.tv:8000/live/star18/star18/10622.ts
+#EXTINF:-1,OSN: SKY CRIME&THRILLER HD
+http://server.internext.tv:8000/live/star18/star18/10625.ts
+#EXTINF:-1,OSN: SHOWTIME HD
+http://server.internext.tv:8000/live/star18/star18/10620.ts
+#EXTINF:-1,OSN: SeeVii Shamiya _HD (L)
+http://server.internext.tv:8000/live/star18/star18/10637.ts
+#EXTINF:-1,OSN: SeeVii Drama _HD (L)
+http://server.internext.tv:8000/live/star18/star18/10638.ts
+#EXTINF:-1,OSN: SEEVII CHOF (L)
+http://server.internext.tv:8000/live/star18/star18/10636.ts
+#EXTINF:-1,OSN: SeeVii Al Aoula_HD (L)
+http://server.internext.tv:8000/live/star18/star18/10639.ts
+#EXTINF:-1,OSN: PREMIER SPORTS HD
+http://server.internext.tv:8000/live/star18/star18/10599.ts
+#EXTINF:-1,OSN: OSN Yahala HD (L)
+http://server.internext.tv:8000/live/star18/star18/10712.ts
+#EXTINF:-1,OSN: OSN YAhala Cinema HD (L)
+http://server.internext.tv:8000/live/star18/star18/10714.ts
+#EXTINF:-1,OSN: OSN Yahala  2
+http://server.internext.tv:8000/live/star18/star18/10711.ts
+#EXTINF:-1,OSN: OSN Yahal Al Aoula _HD (L)
+http://server.internext.tv:8000/live/star18/star18/10713.ts
+#EXTINF:-1,OSN: OSN TLC HD
+http://server.internext.tv:8000/live/star18/star18/10678.ts
+#EXTINF:-1,OSN: OSN Syfy HD
+http://server.internext.tv:8000/live/star18/star18/10690.ts
+#EXTINF:-1,OSN: OSN Star World HD (L)
+http://server.internext.tv:8000/live/star18/star18/10692.ts
+#EXTINF:-1,OSN: OSN Sports4 HD
+http://server.internext.tv:8000/live/star18/star18/10671.ts
+#EXTINF:-1,OSN: OSN Sports3 HD
+http://server.internext.tv:8000/live/star18/star18/10672.ts
+#EXTINF:-1,OSN: OSN Sports2 HD
+http://server.internext.tv:8000/live/star18/star18/10673.ts
+#EXTINF:-1,OSN: OSN Sports1 HD
+http://server.internext.tv:8000/live/star18/star18/10674.ts
+#EXTINF:-1,OSN: OSN Sport Cricket HD
+http://server.internext.tv:8000/live/star18/star18/10670.ts
+#EXTINF:-1,OSN: OSN Series HD First
+http://server.internext.tv:8000/live/star18/star18/10695.ts
+#EXTINF:-1,OSN: OSN Serie Comedy  HD
+http://server.internext.tv:8000/live/star18/star18/10697.ts
+#EXTINF:-1,OSN: OSN SAFWA
+http://server.internext.tv:8000/live/star18/star18/10716.ts
+#EXTINF:-1,OSN: OSN Premer HD
+http://server.internext.tv:8000/live/star18/star18/10691.ts
+#EXTINF:-1,OSN: OSN Pehla  Sony MIX
+http://server.internext.tv:8000/live/star18/star18/10627.ts
+#EXTINF:-1,OSN: OSN On Demand Extra HD
+http://server.internext.tv:8000/live/star18/star18/10686.ts
+#EXTINF:-1,OSN: OSN NatGeo Wild HD (L)
+http://server.internext.tv:8000/live/star18/star18/10684.ts
+#EXTINF:-1,OSN: OSN Musalsalat HD (L)
+http://server.internext.tv:8000/live/star18/star18/10719.ts
+#EXTINF:-1,OSN: OSN Musalsalat 2 HD
+http://server.internext.tv:8000/live/star18/star18/10718.ts
+#EXTINF:-1,OSN: OSN Movies Kids HD
+http://server.internext.tv:8000/live/star18/star18/10694.ts
+#EXTINF:-1,OSN: OSN Movies HD THRILLER  2
+http://server.internext.tv:8000/live/star18/star18/10705.ts
+#EXTINF:-1,OSN: OSN Movies HD THRILLER
+http://server.internext.tv:8000/live/star18/star18/10706.ts
+#EXTINF:-1,OSN: OSN Movies HD L
+http://server.internext.tv:8000/live/star18/star18/10702.ts
+#EXTINF:-1,OSN: VIP Rotana  Masriya HD
+http://server.internext.tv:8000/live/star18/star18/10633.ts
+#EXTINF:-1,OSN: OSN MOVIES HD ACTION
+http://server.internext.tv:8000/live/star18/star18/10704.ts
+#EXTINF:-1,OSN: OSN Movies HD  2
+http://server.internext.tv:8000/live/star18/star18/10701.ts
+#EXTINF:-1,OSN: OSN MOVIES ACTION  2
+http://server.internext.tv:8000/live/star18/star18/10703.ts
+#EXTINF:-1,OSN: OSN Movies  HD Festival
+http://server.internext.tv:8000/live/star18/star18/10700.ts
+#EXTINF:-1,OSN: OSN Movie Box Office 3
+http://server.internext.tv:8000/live/star18/star18/10687.ts
+#EXTINF:-1,OSN: OSN Movie Box Office 2
+http://server.internext.tv:8000/live/star18/star18/10688.ts
+#EXTINF:-1,OSN: OSN Movie Box Office 1
+http://server.internext.tv:8000/live/star18/star18/10689.ts
+#EXTINF:-1,OSN: OSN History2 HD
+http://server.internext.tv:8000/live/star18/star18/10680.ts
+#EXTINF:-1,OSN: OSN History HD
+http://server.internext.tv:8000/live/star18/star18/10681.ts
+#EXTINF:-1,OSN: OSN First Home Of HBO HD (L)
+http://server.internext.tv:8000/live/star18/star18/10707.ts
+#EXTINF:-1,OSN: OSN Fight Box
+http://server.internext.tv:8000/live/star18/star18/10675.ts
+#EXTINF:-1,OSN: OSN Fann
+http://server.internext.tv:8000/live/star18/star18/10715.ts
+#EXTINF:-1,OSN: OSN E
+http://server.internext.tv:8000/live/star18/star18/10677.ts
+#EXTINF:-1,OSN: OSN Discovey ID
+http://server.internext.tv:8000/live/star18/star18/10682.ts
+#EXTINF:-1,OSN: OSN Discovery HD
+http://server.internext.tv:8000/live/star18/star18/10679.ts
+#EXTINF:-1,OSN: OSN Comedy Central
+http://server.internext.tv:8000/live/star18/star18/10696.ts
+#EXTINF:-1,OSN: OSN Cinema2 (L)
+http://server.internext.tv:8000/live/star18/star18/10709.ts
+#EXTINF:-1,OSN: OSN Cinema1
+http://server.internext.tv:8000/live/star18/star18/10710.ts
+#EXTINF:-1,OSN: OSN Animal Planet HD
+http://server.internext.tv:8000/live/star18/star18/10685.ts
+#EXTINF:-1,OSN: OSN AlYoum
+http://server.internext.tv:8000/live/star18/star18/10717.ts
+#EXTINF:-1,OSN: OSN  Star Movies HD L
+http://server.internext.tv:8000/live/star18/star18/10693.ts
+#EXTINF:-1,OSN: OSN  Movies HD Family
+http://server.internext.tv:8000/live/star18/star18/10699.ts
+#EXTINF:-1,OSN: Mbc Masr 2
+http://server.internext.tv:8000/live/star18/star18/10648.ts
+#EXTINF:-1,OSN: Mbc Maser
+http://server.internext.tv:8000/live/star18/star18/10649.ts
+#EXTINF:-1,OSN: LIFETIME HD
+http://server.internext.tv:8000/live/star18/star18/10605.ts
+#EXTINF:-1,OSN: HBO Zone
+http://server.internext.tv:8000/live/star18/star18/10611.ts
+#EXTINF:-1,OSN: HBO Signature
+http://server.internext.tv:8000/live/star18/star18/10614.ts
+#EXTINF:-1,OSN: HBO HD COMEDY
+http://server.internext.tv:8000/live/star18/star18/10610.ts
+#EXTINF:-1,OSN: HBO HD 1
+http://server.internext.tv:8000/live/star18/star18/10613.ts
+#EXTINF:-1,OSN: HBO HD
+http://server.internext.tv:8000/live/star18/star18/10615.ts
+#EXTINF:-1,OSN: HBO 2 HD
+http://server.internext.tv:8000/live/star18/star18/10612.ts
+#EXTINF:-1,OSN: HallMark HD
+http://server.internext.tv:8000/live/star18/star18/10608.ts
+#EXTINF:-1,OSN: FX HD
+http://server.internext.tv:8000/live/star18/star18/10621.ts
+#EXTINF:-1,OSN: DRAMA HD
+http://server.internext.tv:8000/live/star18/star18/10628.ts
+#EXTINF:-1,OSN: Cinemax ThrillerMax HD
+http://server.internext.tv:8000/live/star18/star18/10616.ts
+#EXTINF:-1,OSN: Cinemax MoreMax HD
+http://server.internext.tv:8000/live/star18/star18/10618.ts
+#EXTINF:-1,OSN: VIP Rotana Aflam HD
+http://server.internext.tv:8000/live/star18/star18/10634.ts
+#EXTINF:-1,OSN: VIP Rotana Cinema HD
+http://server.internext.tv:8000/live/star18/star18/10635.ts
+#EXTINF:-1,OSN: VIP Rotana Classic HD
+http://server.internext.tv:8000/live/star18/star18/10632.ts
+#EXTINF:-1,OSN: VIP Rotana Khalijia HD
+http://server.internext.tv:8000/live/star18/star18/10631.ts
+#EXTINF:-1,OSN: VIP Rotana Music HD
+http://server.internext.tv:8000/live/star18/star18/10630.ts
+#EXTINF:-1,OSN: OSN Movies HD First
+http://server.internext.tv:8000/live/star18/star18/10708.ts
+#EXTINF:-1,OSN: VIP WWE
+http://server.internext.tv:8000/live/star18/star18/10676.ts
+#EXTINF:-1,OSN: OSN Movies HD Comedy.
+http://server.internext.tv:8000/live/star18/star18/10698.ts
+#EXTINF:-1,AR: 2m
+http://server.internext.tv:8000/live/star18/star18/13175.ts
+#EXTINF:-1,AR: ABU DHABI TV
+http://server.internext.tv:8000/live/star18/star18/13242.ts
+#EXTINF:-1,AR: Adwa Tv
+http://server.internext.tv:8000/live/star18/star18/13218.ts
+#EXTINF:-1,AR: AFLAM MAGHRIBIA 1 HD
+http://server.internext.tv:8000/live/star18/star18/13118.ts
+#EXTINF:-1,AR: Aghani
+http://server.internext.tv:8000/live/star18/star18/13081.ts
+#EXTINF:-1,AR: AGHANINA TV
+http://server.internext.tv:8000/live/star18/star18/13278.ts
+#EXTINF:-1,AR: Aghapy
+http://server.internext.tv:8000/live/star18/star18/13089.ts
+#EXTINF:-1,AR: Ahl Al Quran
+http://server.internext.tv:8000/live/star18/star18/13129.ts
+#EXTINF:-1,AR: Al Adjwaa
+http://server.internext.tv:8000/live/star18/star18/13083.ts
+#EXTINF:-1,AR: Al Afassy TV
+http://server.internext.tv:8000/live/star18/star18/13122.ts
+#EXTINF:-1,AR: Al Ahly TV
+http://server.internext.tv:8000/live/star18/star18/13149.ts
+#EXTINF:-1,AR: Al Amaken Drama
+http://server.internext.tv:8000/live/star18/star18/13180.ts
+#EXTINF:-1,AR: Al Anwar 2
+http://server.internext.tv:8000/live/star18/star18/13044.ts
+#EXTINF:-1,AR: Al Araby TV
+http://server.internext.tv:8000/live/star18/star18/13070.ts
+#EXTINF:-1,AR: AL BAIT BAITAK CINEMA
+http://server.internext.tv:8000/live/star18/star18/13291.ts
+#EXTINF:-1,AR: Al Dafra
+http://server.internext.tv:8000/live/star18/star18/13243.ts
+#EXTINF:-1,AR: Al Erth Alnbawi
+http://server.internext.tv:8000/live/star18/star18/13312.ts
+#EXTINF:-1,AR: Al Fallujah Iraq
+http://server.internext.tv:8000/live/star18/star18/13213.ts
+#EXTINF:-1,AR: Al Falstiniah TV
+http://server.internext.tv:8000/live/star18/star18/13065.ts
+#EXTINF:-1,AR: Al Ghadeer
+http://server.internext.tv:8000/live/star18/star18/13198.ts
+#EXTINF:-1,AR: Al Hayat
+http://server.internext.tv:8000/live/star18/star18/13094.ts
+#EXTINF:-1,AR: AL Hayat Series
+http://server.internext.tv:8000/live/star18/star18/13309.ts
+#EXTINF:-1,AR: AL Hayat TWO
+http://server.internext.tv:8000/live/star18/star18/13311.ts
+#EXTINF:-1,AR: Al hayat We Alnas
+http://server.internext.tv:8000/live/star18/star18/13272.ts
+#EXTINF:-1,AR: Al Ikhbaria syria
+http://server.internext.tv:8000/live/star18/star18/13254.ts
+#EXTINF:-1,AR: Al Insen TV
+http://server.internext.tv:8000/live/star18/star18/13121.ts
+#EXTINF:-1,AR: Al Itejah TV
+http://server.internext.tv:8000/live/star18/star18/13072.ts
+#EXTINF:-1,AR: Al Jazeera Mubasher LIVE
+http://server.internext.tv:8000/live/star18/star18/13040.ts
+#EXTINF:-1,AR: Al Kaas 1 HD
+http://server.internext.tv:8000/live/star18/star18/13163.ts
+#EXTINF:-1,AR: Al Kaas 2 HD
+http://server.internext.tv:8000/live/star18/star18/13162.ts
+#EXTINF:-1,AR: Al Kaas 3 HD
+http://server.internext.tv:8000/live/star18/star18/13161.ts
+#EXTINF:-1,AR: Al Magharibia 3
+http://server.internext.tv:8000/live/star18/star18/13181.ts
+#EXTINF:-1,AR: Al Masrawia Aflam
+http://server.internext.tv:8000/live/star18/star18/13183.ts
+#EXTINF:-1,AR: Al Mayadeen
+http://server.internext.tv:8000/live/star18/star18/13267.ts
+#EXTINF:-1,AR: AL Nahar  2
+http://server.internext.tv:8000/live/star18/star18/13235.ts
+#EXTINF:-1,AR: Al Nahar Cinema
+http://server.internext.tv:8000/live/star18/star18/13317.ts
+#EXTINF:-1,AR: Al Nahar Drama
+http://server.internext.tv:8000/live/star18/star18/13314.ts
+#EXTINF:-1,AR: Al Nahar One
+http://server.internext.tv:8000/live/star18/star18/13316.ts
+#EXTINF:-1,AR: Al Oula Maroc HD
+http://server.internext.tv:8000/live/star18/star18/13166.ts
+#EXTINF:-1,AR: Al Rafiden Iraq
+http://server.internext.tv:8000/live/star18/star18/13217.ts
+#EXTINF:-1,AR: Al Rahma
+http://server.internext.tv:8000/live/star18/star18/13126.ts
+#EXTINF:-1,AR: Al Resalah
+http://server.internext.tv:8000/live/star18/star18/13127.ts
+#EXTINF:-1,AR: Al Seraj
+http://server.internext.tv:8000/live/star18/star18/13066.ts
+#EXTINF:-1,AR: Al Shargah Tv
+http://server.internext.tv:8000/live/star18/star18/13077.ts
+#EXTINF:-1,AR: Al Sumaria TV
+http://server.internext.tv:8000/live/star18/star18/13276.ts
+#EXTINF:-1,AR: Al thanya
+http://server.internext.tv:8000/live/star18/star18/13280.ts
+#EXTINF:-1,AR: al-arefe
+http://server.internext.tv:8000/live/star18/star18/13079.ts
+#EXTINF:-1,AR: Al-Manar
+http://server.internext.tv:8000/live/star18/star18/13265.ts
+#EXTINF:-1,AR: AL-RASLA
+http://server.internext.tv:8000/live/star18/star18/13123.ts
+#EXTINF:-1,AR: al-shareyyah-channel
+http://server.internext.tv:8000/live/star18/star18/13113.ts
+#EXTINF:-1,AR: AL-uloa morrcmow
+http://server.internext.tv:8000/live/star18/star18/13185.ts
+#EXTINF:-1,AR: alaantv
+http://server.internext.tv:8000/live/star18/star18/13241.ts
+#EXTINF:-1,AR: Alalam News
+http://server.internext.tv:8000/live/star18/star18/13041.ts
+#EXTINF:-1,AR: Alarabiya
+http://server.internext.tv:8000/live/star18/star18/13038.ts
+#EXTINF:-1,AR: AlBasira
+http://server.internext.tv:8000/live/star18/star18/13359.ts
+#EXTINF:-1,AR: AlForat
+http://server.internext.tv:8000/live/star18/star18/13203.ts
+#EXTINF:-1,AR: algeria3
+http://server.internext.tv:8000/live/star18/star18/13062.ts
+#EXTINF:-1,AR: Algerie 3
+http://server.internext.tv:8000/live/star18/star18/13172.ts
+#EXTINF:-1,AR: Algerie 5
+http://server.internext.tv:8000/live/star18/star18/13076.ts
+#EXTINF:-1,AR: Alhayat 1
+http://server.internext.tv:8000/live/star18/star18/13050.ts
+#EXTINF:-1,AR: Alhayat We Alnas
+http://server.internext.tv:8000/live/star18/star18/13305.ts
+#EXTINF:-1,AR: Alhayat2
+http://server.internext.tv:8000/live/star18/star18/13093.ts
+#EXTINF:-1,AR: Alhorreya
+http://server.internext.tv:8000/live/star18/star18/13085.ts
+#EXTINF:-1,AR: Alhurra News
+http://server.internext.tv:8000/live/star18/star18/13069.ts
+#EXTINF:-1,AR: Aljadeed
+http://server.internext.tv:8000/live/star18/star18/13270.ts
+#EXTINF:-1,AR: Aljanoubia
+http://server.internext.tv:8000/live/star18/star18/13222.ts
+#EXTINF:-1,AR: ALJAZEERA DOC
+http://server.internext.tv:8000/live/star18/star18/13039.ts
+#EXTINF:-1,AR: Alkass Sport 4 HD
+http://server.internext.tv:8000/live/star18/star18/13160.ts
+#EXTINF:-1,AR: Alkass Sport 5 HD
+http://server.internext.tv:8000/live/star18/star18/13159.ts
+#EXTINF:-1,AR: Almajd
+http://server.internext.tv:8000/live/star18/star18/13119.ts
+#EXTINF:-1,AR: Almajd 2
+http://server.internext.tv:8000/live/star18/star18/13117.ts
+#EXTINF:-1,AR: Almajd 3
+http://server.internext.tv:8000/live/star18/star18/13116.ts
+#EXTINF:-1,AR: Almajd 4
+http://server.internext.tv:8000/live/star18/star18/13115.ts
+#EXTINF:-1,AR: Almajd 8
+http://server.internext.tv:8000/live/star18/star18/13114.ts
+#EXTINF:-1,AR: Almhar drama
+http://server.internext.tv:8000/live/star18/star18/13046.ts
+#EXTINF:-1,AR: AlNahar drama
+http://server.internext.tv:8000/live/star18/star18/13313.ts
+#EXTINF:-1,AR: Alnahar Tv
+http://server.internext.tv:8000/live/star18/star18/13049.ts
+#EXTINF:-1,AR: AlNahar2
+http://server.internext.tv:8000/live/star18/star18/13315.ts
+#EXTINF:-1,AR: AlNas
+http://server.internext.tv:8000/live/star18/star18/13125.ts
+#EXTINF:-1,AR: ALNHAR ALGRIA
+http://server.internext.tv:8000/live/star18/star18/13173.ts
+#EXTINF:-1,AR: AlQahera W Elnas
+http://server.internext.tv:8000/live/star18/star18/13328.ts
+#EXTINF:-1,AR: AlQahera W Elnas 2
+http://server.internext.tv:8000/live/star18/star18/13327.ts
+#EXTINF:-1,AR: Alwaad
+http://server.internext.tv:8000/live/star18/star18/13086.ts
+#EXTINF:-1,AR: Al_Shara
+http://server.internext.tv:8000/live/star18/star18/13284.ts
+#EXTINF:-1,AR: ANB
+http://server.internext.tv:8000/live/star18/star18/13201.ts
+#EXTINF:-1,AR: ANN NEWS
+http://server.internext.tv:8000/live/star18/star18/13078.ts
+#EXTINF:-1,AR: AR: Al Mustakila
+http://server.internext.tv:8000/live/star18/star18/13240.ts
+#EXTINF:-1,AR: Arrabiaa 4
+http://server.internext.tv:8000/live/star18/star18/13080.ts
+#EXTINF:-1,AR: Arriadia
+http://server.internext.tv:8000/live/star18/star18/13184.ts
+#EXTINF:-1,AR: Assabiaa/AFLAM 7
+http://server.internext.tv:8000/live/star18/star18/13178.ts
+#EXTINF:-1,AR: Assadissa
+http://server.internext.tv:8000/live/star18/star18/13179.ts
+#EXTINF:-1,AR: BAGHDAD TV
+http://server.internext.tv:8000/live/star18/star18/13210.ts
+#EXTINF:-1,AR: BAHRAIN TV
+http://server.internext.tv:8000/live/star18/star18/13045.ts
+#EXTINF:-1,AR: Baraem
+http://server.internext.tv:8000/live/star18/star18/13141.ts
+#EXTINF:-1,AR: BBC Arabia
+http://server.internext.tv:8000/live/star18/star18/13035.ts
+#EXTINF:-1,AR: beurTV
+http://server.internext.tv:8000/live/star18/star18/13170.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://server.internext.tv:8000/live/star18/star18/13298.ts
+#EXTINF:-1,AR: Cairo Drama
+http://server.internext.tv:8000/live/star18/star18/13297.ts
+#EXTINF:-1,AR: Cairo ONE
+http://server.internext.tv:8000/live/star18/star18/13304.ts
+#EXTINF:-1,AR: Cartoon Network
+http://server.internext.tv:8000/live/star18/star18/13134.ts
+#EXTINF:-1,AR: CBC
+http://server.internext.tv:8000/live/star18/star18/13326.ts
+#EXTINF:-1,AR: Cbc Cofra
+http://server.internext.tv:8000/live/star18/star18/13323.ts
+#EXTINF:-1,AR: Cbc Drama
+http://server.internext.tv:8000/live/star18/star18/13324.ts
+#EXTINF:-1,AR: Cbc Plus2
+http://server.internext.tv:8000/live/star18/star18/13325.ts
+#EXTINF:-1,AR: Cima
+http://server.internext.tv:8000/live/star18/star18/13372.ts
+#EXTINF:-1,AR: Cinema  Laille
+http://server.internext.tv:8000/live/star18/star18/13188.ts
+#EXTINF:-1,AR: Cinema 1
+http://server.internext.tv:8000/live/star18/star18/13301.ts
+#EXTINF:-1,AR: Cinema 2
+http://server.internext.tv:8000/live/star18/star18/13300.ts
+#EXTINF:-1,AR: Cinema AliPapa
+http://server.internext.tv:8000/live/star18/star18/13283.ts
+#EXTINF:-1,AR: Cinema Pro
+http://server.internext.tv:8000/live/star18/star18/13306.ts
+#EXTINF:-1,AR: Csat TV
+http://server.internext.tv:8000/live/star18/star18/13109.ts
+#EXTINF:-1,AR: CTV
+http://server.internext.tv:8000/live/star18/star18/13088.ts
+#EXTINF:-1,AR: Dijlah TV
+http://server.internext.tv:8000/live/star18/star18/13212.ts
+#EXTINF:-1,AR: Dmc Drama
+http://server.internext.tv:8000/live/star18/star18/13302.ts
+#EXTINF:-1,AR: DMC HD
+http://server.internext.tv:8000/live/star18/star18/13303.ts
+#EXTINF:-1,AR: DMC Sports
+http://server.internext.tv:8000/live/star18/star18/13153.ts
+#EXTINF:-1,AR: DRAMA HD
+http://server.internext.tv:8000/live/star18/star18/13358.ts
+#EXTINF:-1,AR: DREAM
+http://server.internext.tv:8000/live/star18/star18/13292.ts
+#EXTINF:-1,AR: Dubai One
+http://server.internext.tv:8000/live/star18/star18/13247.ts
+#EXTINF:-1,AR: Dubai Racing
+http://server.internext.tv:8000/live/star18/star18/13246.ts
+#EXTINF:-1,AR: DubaI Sport3
+http://server.internext.tv:8000/live/star18/star18/13157.ts
+#EXTINF:-1,AR: Dubai TV
+http://server.internext.tv:8000/live/star18/star18/13249.ts
+#EXTINF:-1,AR: Dubai Zaman
+http://server.internext.tv:8000/live/star18/star18/13248.ts
+#EXTINF:-1,AR: Dzair
+http://server.internext.tv:8000/live/star18/star18/13169.ts
+#EXTINF:-1,AR: Dzair 24
+http://server.internext.tv:8000/live/star18/star18/13168.ts
+#EXTINF:-1,AR: DZair TV
+http://server.internext.tv:8000/live/star18/star18/13167.ts
+#EXTINF:-1,AR: Echorouk TV
+http://server.internext.tv:8000/live/star18/star18/13057.ts
+#EXTINF:-1,AR: Echourouk_Benna
+http://server.internext.tv:8000/live/star18/star18/13082.ts
+#EXTINF:-1,AR: Ecs Maser
+http://server.internext.tv:8000/live/star18/star18/13285.ts
+#EXTINF:-1,AR: El Heddaf TV
+http://server.internext.tv:8000/live/star18/star18/13063.ts
+#EXTINF:-1,AR: EL-Hiwar Ettounsie
+http://server.internext.tv:8000/live/star18/star18/13189.ts
+#EXTINF:-1,AR: ELHIWAR ETTOUNSI
+http://server.internext.tv:8000/live/star18/star18/13190.ts
+#EXTINF:-1,AR: Emirates TV
+http://server.internext.tv:8000/live/star18/star18/13251.ts
+#EXTINF:-1,AR: Family Drama
+http://server.internext.tv:8000/live/star18/star18/13310.ts
+#EXTINF:-1,AR: FRANCE 24 (AR)
+http://server.internext.tv:8000/live/star18/star18/13037.ts
+#EXTINF:-1,AR: Funny Animated cartoons Kids
+http://server.internext.tv:8000/live/star18/star18/13138.ts
+#EXTINF:-1,AR: FUNON
+http://server.internext.tv:8000/live/star18/star18/13221.ts
+#EXTINF:-1,AR: Future tv
+http://server.internext.tv:8000/live/star18/star18/13264.ts
+#EXTINF:-1,AR: Halab Today
+http://server.internext.tv:8000/live/star18/star18/13253.ts
+#EXTINF:-1,AR: Hannibal TV
+http://server.internext.tv:8000/live/star18/star18/13197.ts
+#EXTINF:-1,AR: Hona Al Quds
+http://server.internext.tv:8000/live/star18/star18/13216.ts
+#EXTINF:-1,AR: Iqra
+http://server.internext.tv:8000/live/star18/star18/13130.ts
+#EXTINF:-1,Ar: Iraq alhora
+http://server.internext.tv:8000/live/star18/star18/13205.ts
+#EXTINF:-1,Ar: Iraq Alnaeem
+http://server.internext.tv:8000/live/star18/star18/13294.ts
+#EXTINF:-1,AR: Iraq Sport
+http://server.internext.tv:8000/live/star18/star18/13152.ts
+#EXTINF:-1,AR: JAZERA
+http://server.internext.tv:8000/live/star18/star18/13075.ts
+#EXTINF:-1,AR: JO SAT
+http://server.internext.tv:8000/live/star18/star18/13036.ts
+#EXTINF:-1,AR: Jordan
+http://server.internext.tv:8000/live/star18/star18/13227.ts
+#EXTINF:-1,AR: Jordan Sport
+http://server.internext.tv:8000/live/star18/star18/13154.ts
+#EXTINF:-1,AR: Karameesh
+http://server.internext.tv:8000/live/star18/star18/13140.ts
+#EXTINF:-1,AR: karmatv
+http://server.internext.tv:8000/live/star18/star18/13100.ts
+#EXTINF:-1,AR: KOKKY TV
+http://server.internext.tv:8000/live/star18/star18/13139.ts
+#EXTINF:-1,AR: Koky Kids
+http://server.internext.tv:8000/live/star18/star18/13142.ts
+#EXTINF:-1,AR: Kol Nas TV
+http://server.internext.tv:8000/live/star18/star18/13220.ts
+#EXTINF:-1,AR: koogi Kids
+http://server.internext.tv:8000/live/star18/star18/13092.ts
+#EXTINF:-1,AR: Kuwait Sport
+http://server.internext.tv:8000/live/star18/star18/13061.ts
+#EXTINF:-1,AR: Kuwait Sport Plus
+http://server.internext.tv:8000/live/star18/star18/13060.ts
+#EXTINF:-1,AR: Kuwait-TV
+http://server.internext.tv:8000/live/star18/star18/13059.ts
+#EXTINF:-1,AR: LBC
+http://server.internext.tv:8000/live/star18/star18/13262.ts
+#EXTINF:-1,AR: LDC
+http://server.internext.tv:8000/live/star18/star18/13261.ts
+#EXTINF:-1,AR: LIBYA RSMIA Ch
+http://server.internext.tv:8000/live/star18/star18/13058.ts
+#EXTINF:-1,AR: Libya Tv
+http://server.internext.tv:8000/live/star18/star18/13073.ts
+#EXTINF:-1,AR: M Ettounsia 9 TV
+http://server.internext.tv:8000/live/star18/star18/13192.ts
+#EXTINF:-1,AR: Ma3akom
+http://server.internext.tv:8000/live/star18/star18/13098.ts
+#EXTINF:-1,AR: MAAN
+http://server.internext.tv:8000/live/star18/star18/13223.ts
+#EXTINF:-1,AR: Mahribia News
+http://server.internext.tv:8000/live/star18/star18/13176.ts
+#EXTINF:-1,AR: Majid Kids TV
+http://server.internext.tv:8000/live/star18/star18/13145.ts
+#EXTINF:-1,AR: Malakoot Sat
+http://server.internext.tv:8000/live/star18/star18/13087.ts
+#EXTINF:-1,AR: Malakoot TV
+http://server.internext.tv:8000/live/star18/star18/13095.ts
+#EXTINF:-1,AR: MEDI 1 MA
+http://server.internext.tv:8000/live/star18/star18/13177.ts
+#EXTINF:-1,AR: MehwarTV
+http://server.internext.tv:8000/live/star18/star18/13279.ts
+#EXTINF:-1,AR: Mekameleen
+http://server.internext.tv:8000/live/star18/star18/13293.ts
+#EXTINF:-1,AR: Melody Classic
+http://server.internext.tv:8000/live/star18/star18/13120.ts
+#EXTINF:-1,AR: MESat HD
+http://server.internext.tv:8000/live/star18/star18/13110.ts
+#EXTINF:-1,AR: Mickey Channel Kids
+http://server.internext.tv:8000/live/star18/star18/13135.ts
+#EXTINF:-1,AR: Miracle1
+http://server.internext.tv:8000/live/star18/star18/13096.ts
+#EXTINF:-1,Ar: Misr EL Bald
+http://server.internext.tv:8000/live/star18/star18/13274.ts
+#EXTINF:-1,AR: Mody kids
+http://server.internext.tv:8000/live/star18/star18/13136.ts
+#EXTINF:-1,AR: Moga Comedy
+http://server.internext.tv:8000/live/star18/star18/13308.ts
+#EXTINF:-1,AR: MTV_LEBONON
+http://server.internext.tv:8000/live/star18/star18/13268.ts
+#EXTINF:-1,AR: MyHD OutDoor Channel
+http://server.internext.tv:8000/live/star18/star18/13211.ts
+#EXTINF:-1,AR: Nabd Syria
+http://server.internext.tv:8000/live/star18/star18/13258.ts
+#EXTINF:-1,AR: National Geo Ad
+http://server.internext.tv:8000/live/star18/star18/13234.ts
+#EXTINF:-1,AR: Nbn HD
+http://server.internext.tv:8000/live/star18/star18/13263.ts
+#EXTINF:-1,AR: NESMAA TV
+http://server.internext.tv:8000/live/star18/star18/13171.ts
+#EXTINF:-1,AR: NESSMATV
+http://server.internext.tv:8000/live/star18/star18/13165.ts
+#EXTINF:-1,AR: Nile Cinema
+http://server.internext.tv:8000/live/star18/star18/13290.ts
+#EXTINF:-1,AR: Nile Comedy
+http://server.internext.tv:8000/live/star18/star18/13288.ts
+#EXTINF:-1,AR: NILE Drama
+http://server.internext.tv:8000/live/star18/star18/13289.ts
+#EXTINF:-1,AR: NILE FAMILY
+http://server.internext.tv:8000/live/star18/star18/13287.ts
+#EXTINF:-1,AR: Nile Life
+http://server.internext.tv:8000/live/star18/star18/13286.ts
+#EXTINF:-1,AR: Nile Sport
+http://server.internext.tv:8000/live/star18/star18/13150.ts
+#EXTINF:-1,AR: Nile TV
+http://server.internext.tv:8000/live/star18/star18/13158.ts
+#EXTINF:-1,AR: Noor El Cham
+http://server.internext.tv:8000/live/star18/star18/13256.ts
+#EXTINF:-1,AR: NOOR JORDAN
+http://server.internext.tv:8000/live/star18/star18/13051.ts
+#EXTINF:-1,AR: Nour Al Shabab
+http://server.internext.tv:8000/live/star18/star18/13107.ts
+#EXTINF:-1,AR: Nour Alsharq
+http://server.internext.tv:8000/live/star18/star18/13106.ts
+#EXTINF:-1,AR: Nour el Kodass
+http://server.internext.tv:8000/live/star18/star18/13105.ts
+#EXTINF:-1,AR: Nour kids
+http://server.internext.tv:8000/live/star18/star18/13104.ts
+#EXTINF:-1,AR: Nour M
+http://server.internext.tv:8000/live/star18/star18/13103.ts
+#EXTINF:-1,AR: Nour Mariam
+http://server.internext.tv:8000/live/star18/star18/13102.ts
+#EXTINF:-1,AR: Nour Music
+http://server.internext.tv:8000/live/star18/star18/13101.ts
+#EXTINF:-1,AR: Nour Spirit
+http://server.internext.tv:8000/live/star18/star18/13099.ts
+#EXTINF:-1,AR: Numidia
+http://server.internext.tv:8000/live/star18/star18/13071.ts
+#EXTINF:-1,AR: ON live
+http://server.internext.tv:8000/live/star18/star18/13182.ts
+#EXTINF:-1,AR: ON SPORT TV
+http://server.internext.tv:8000/live/star18/star18/13148.ts
+#EXTINF:-1,AR: ON TV AFALM
+http://server.internext.tv:8000/live/star18/star18/13275.ts
+#EXTINF:-1,AR: ONTV
+http://server.internext.tv:8000/live/star18/star18/13307.ts
+#EXTINF:-1,AR: Orient tv
+http://server.internext.tv:8000/live/star18/star18/13155.ts
+#EXTINF:-1,AR: OSN  Diseny XD
+http://server.internext.tv:8000/live/star18/star18/13132.ts
+#EXTINF:-1,AR: OSN  Disney HD
+http://server.internext.tv:8000/live/star18/star18/13133.ts
+#EXTINF:-1,AR: OTV Lebanon
+http://server.internext.tv:8000/live/star18/star18/13269.ts
+#EXTINF:-1,AR: Palestine TV
+http://server.internext.tv:8000/live/star18/star18/13224.ts
+#EXTINF:-1,AR: Panorama Drama1
+http://server.internext.tv:8000/live/star18/star18/13320.ts
+#EXTINF:-1,AR: Panorama Film
+http://server.internext.tv:8000/live/star18/star18/13318.ts
+#EXTINF:-1,AR: Panorma Comedy
+http://server.internext.tv:8000/live/star18/star18/13321.ts
+#EXTINF:-1,AR: Panorma Drama2
+http://server.internext.tv:8000/live/star18/star18/13319.ts
+#EXTINF:-1,AR: Panorma FooD
+http://server.internext.tv:8000/live/star18/star18/13322.ts
+#EXTINF:-1,AR: Peace TV
+http://server.internext.tv:8000/live/star18/star18/13124.ts
+#EXTINF:-1,AR: Roqua tv
+http://server.internext.tv:8000/live/star18/star18/13074.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://server.internext.tv:8000/live/star18/star18/13056.ts
+#EXTINF:-1,AR: ROTANA KHALIJIAH HD
+http://server.internext.tv:8000/live/star18/star18/13054.ts
+#EXTINF:-1,AR: Rotana Masrya HD
+http://server.internext.tv:8000/live/star18/star18/13053.ts
+#EXTINF:-1,AR: Rotana muisc
+http://server.internext.tv:8000/live/star18/star18/13052.ts
+#EXTINF:-1,AR: Rotna clip
+http://server.internext.tv:8000/live/star18/star18/13055.ts
+#EXTINF:-1,AR: Sada El Balad Drama
+http://server.internext.tv:8000/live/star18/star18/13281.ts
+#EXTINF:-1,AR: Salam TV
+http://server.internext.tv:8000/live/star18/star18/13219.ts
+#EXTINF:-1,AR: Sama Dubai
+http://server.internext.tv:8000/live/star18/star18/13245.ts
+#EXTINF:-1,AR: Sama Syriaa
+http://server.internext.tv:8000/live/star18/star18/13260.ts
+#EXTINF:-1,AR: Samira TV
+http://server.internext.tv:8000/live/star18/star18/13196.ts
+#EXTINF:-1,AR: SAT 7 Kids
+http://server.internext.tv:8000/live/star18/star18/13090.ts
+#EXTINF:-1,AR: Sat7
+http://server.internext.tv:8000/live/star18/star18/13091.ts
+#EXTINF:-1,AR: SAUDI CH2
+http://server.internext.tv:8000/live/star18/star18/13230.ts
+#EXTINF:-1,AR: SAUDI RIYADIA HD
+http://server.internext.tv:8000/live/star18/star18/13151.ts
+#EXTINF:-1,AR: Saudia 1
+http://server.internext.tv:8000/live/star18/star18/13231.ts
+#EXTINF:-1,AR: Semsem kids
+http://server.internext.tv:8000/live/star18/star18/13143.ts
+#EXTINF:-1,AR: SHA3BEYAT
+http://server.internext.tv:8000/live/star18/star18/13271.ts
+#EXTINF:-1,AR: Sharjah TV
+http://server.internext.tv:8000/live/star18/star18/13244.ts
+#EXTINF:-1,AR: Spacetoon L
+http://server.internext.tv:8000/live/star18/star18/13137.ts
+#EXTINF:-1,AR: Spirit
+http://server.internext.tv:8000/live/star18/star18/13097.ts
+#EXTINF:-1,AR: Star Cinema1
+http://server.internext.tv:8000/live/star18/star18/13296.ts
+#EXTINF:-1,AR: Star Cinema2
+http://server.internext.tv:8000/live/star18/star18/13295.ts
+#EXTINF:-1,AR: Suryoyo sat
+http://server.internext.tv:8000/live/star18/star18/13111.ts
+#EXTINF:-1,AR: Syria Drama
+http://server.internext.tv:8000/live/star18/star18/13259.ts
+#EXTINF:-1,AR: Syria Eduction
+http://server.internext.tv:8000/live/star18/star18/13255.ts
+#EXTINF:-1,AR: Syria tv
+http://server.internext.tv:8000/live/star18/star18/13257.ts
+#EXTINF:-1,AR: Talvza TV
+http://server.internext.tv:8000/live/star18/star18/13047.ts
+#EXTINF:-1,AR: Tamazight
+http://server.internext.tv:8000/live/star18/star18/13128.ts
+#EXTINF:-1,AR: Tanasuhtv
+http://server.internext.tv:8000/live/star18/star18/13067.ts
+#EXTINF:-1,AR: Tele Lumiere
+http://server.internext.tv:8000/live/star18/star18/13108.ts
+#EXTINF:-1,AR: Ten
+http://server.internext.tv:8000/live/star18/star18/13273.ts
+#EXTINF:-1,AR: Toktok Aflam
+http://server.internext.tv:8000/live/star18/star18/13277.ts
+#EXTINF:-1,AR: Touyour Baby HD
+http://server.internext.tv:8000/live/star18/star18/13144.ts
+#EXTINF:-1,AR: Tunisia
+http://server.internext.tv:8000/live/star18/star18/13193.ts
+#EXTINF:-1,AR: Tunisia nat1
+http://server.internext.tv:8000/live/star18/star18/13195.ts
+#EXTINF:-1,AR: Tunisia nat2
+http://server.internext.tv:8000/live/star18/star18/13194.ts
+#EXTINF:-1,AR: Wanasa tv
+http://server.internext.tv:8000/live/star18/star18/13233.ts
+#EXTINF:-1,AR: WATAN EGYPT TV
+http://server.internext.tv:8000/live/star18/star18/13299.ts
+#EXTINF:-1,AR: Yaman Shabab
+http://server.internext.tv:8000/live/star18/star18/13202.ts
+#EXTINF:-1,AR: YAS SPORT
+http://server.internext.tv:8000/live/star18/star18/13043.ts
+#EXTINF:-1,AR: Zaytona tv
+http://server.internext.tv:8000/live/star18/star18/13191.ts
+#EXTINF:-1,AR: Zee Aflam
+http://server.internext.tv:8000/live/star18/star18/13236.ts
+#EXTINF:-1,AR: Zee Alwan
+http://server.internext.tv:8000/live/star18/star18/13237.ts
+#EXTINF:-1,AR: Zweina Baladna JO
+http://server.internext.tv:8000/live/star18/star18/13048.ts
+#EXTINF:-1,AR:: Nablus-Tv
+http://server.internext.tv:8000/live/star18/star18/13282.ts
+#EXTINF:-1,AR:Al Mawsleya TV
+http://server.internext.tv:8000/live/star18/star18/13206.ts
+#EXTINF:-1,AR:AL RASHEED
+http://server.internext.tv:8000/live/star18/star18/13214.ts
+#EXTINF:-1,AR:AL SHARQIYA
+http://server.internext.tv:8000/live/star18/star18/13208.ts
+#EXTINF:-1,AR:AL SHARQIYA NEWS
+http://server.internext.tv:8000/live/star18/star18/13207.ts
+#EXTINF:-1,AR:ALMOSARE3
+http://server.internext.tv:8000/live/star18/star18/13147.ts
+#EXTINF:-1,AR:ANB IRAQ
+http://server.internext.tv:8000/live/star18/star18/13204.ts
+#EXTINF:-1,AR:B4U Plus
+http://server.internext.tv:8000/live/star18/star18/13238.ts
+#EXTINF:-1,AR:Citruss TV
+http://server.internext.tv:8000/live/star18/star18/13068.ts
+#EXTINF:-1,AR:Dubai Sport 4
+http://server.internext.tv:8000/live/star18/star18/13156.ts
+#EXTINF:-1,AR:KurdSat
+http://server.internext.tv:8000/live/star18/star18/13209.ts
+#EXTINF:-1,AR:Noor Dubai
+http://server.internext.tv:8000/live/star18/star18/13250.ts
+#EXTINF:-1,AR:NRT HD
+http://server.internext.tv:8000/live/star18/star18/13200.ts
+#EXTINF:-1,AR:Roya
+http://server.internext.tv:8000/live/star18/star18/13226.ts
+#EXTINF:-1,AR:SAUDI CH  NEWS
+http://server.internext.tv:8000/live/star18/star18/13229.ts
+#EXTINF:-1,AR | 2M MAROC
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8091.ts
+#EXTINF:-1,AR | AL ARABIYA
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8083.ts
+#EXTINF:-1,AR | AL JAZEERA
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8100.ts
+#EXTINF:-1,AR | AL JAZEERA DOCU
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8101.ts
+#EXTINF:-1,AR | ART CINEMA
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8081.ts
+#EXTINF:-1,AR | Baghdad TV
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8102.ts
+#EXTINF:-1,AR | BEIN MOVIES 2 HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8084.ts
+#EXTINF:-1,AR | DUBAI ONE
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8082.ts
+#EXTINF:-1,AR | DUBAI TV
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8094.ts
+#EXTINF:-1,AR | LBC INT
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8080.ts
+#EXTINF:-1,AR | MBC 1
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8095.ts
+#EXTINF:-1,AR | MBC 2
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8096.ts
+#EXTINF:-1,AR | MBC 3
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8097.ts
+#EXTINF:-1,AR | MBC 4
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8098.ts
+#EXTINF:-1,AR | MBC ACTION
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8099.ts
+#EXTINF:-1,AR | MBC MAX
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8103.ts
+#EXTINF:-1,AR | NESSMA TV
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8104.ts
+#EXTINF:-1,AR | NOOR DUBAI
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8086.ts
+#EXTINF:-1,AR | O TV
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8087.ts
+#EXTINF:-1,AR | OSN MOVIE HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8067.ts
+#EXTINF:-1,AR | OSN Movies Action 2 HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8069.ts
+#EXTINF:-1,AR | OSN Movies Action HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8068.ts
+#EXTINF:-1,AR | OSN Movies Box Office 1HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8070.ts
+#EXTINF:-1,AR | OSN Movies Box Office 2HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8071.ts
+#EXTINF:-1,AR | OSN Movies Box Office 3HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8072.ts
+#EXTINF:-1,AR | OSN Movies Comedy HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8073.ts
+#EXTINF:-1,AR | OSN Movies Comedy Plus2 HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8074.ts
+#EXTINF:-1,AR | OSN Movies Festival HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8075.ts
+#EXTINF:-1,AR | OSN Movies Kids HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8076.ts
+#EXTINF:-1,AR | OSN ON DEMAND 1HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8077.ts
+#EXTINF:-1,AR | OSN ON DEMAND 2HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8078.ts
+#EXTINF:-1,AR | OSN STAR MOVIES HD
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8079.ts
+#EXTINF:-1,AR | ROTANA AFLAM
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8085.ts
+#EXTINF:-1,AR | ROTANA CINEMA
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8093.ts
+#EXTINF:-1,AR | ROTANA CLIP
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8092.ts
+#EXTINF:-1,AR | ROTANA KHALIJIAH
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8088.ts
+#EXTINF:-1,AR | ROTANA MASRIYA
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8090.ts
+#EXTINF:-1,AR | SAMA DUBAI
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8105.ts
